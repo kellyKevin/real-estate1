@@ -1,0 +1,47 @@
+/* src/pages/PropertyDetail.css */
+
+.property-detail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .property-detail h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .property-detail p {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .property-detail img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .property-detail video {
+    display: block;
+    max-width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .property-detail .price {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #2a9d8f;
+  }
+  
+  .property-detail .location {
+    font-style: italic;
+    color: #6c757d;
+  }
+  

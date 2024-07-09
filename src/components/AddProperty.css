@@ -1,0 +1,45 @@
+/* src/components/AddProperty.css */
+.add-property-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .add-property-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .add-property-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .add-property-form input,
+  .add-property-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-property-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-property-form button:hover {
+    background-color: #0056b3;
+  }
+  
